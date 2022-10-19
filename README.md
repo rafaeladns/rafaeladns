@@ -1,6 +1,6 @@
 ### Olá, sou a Rafaela! Seja bem vinda(o) ao meu GitHub 💛 👋
 - ⚡ Interesse em Desenvolvimento Front-End
-- 👩‍💻 Atualmente Ux Design
+- 👩‍💻 Atualmente estudando Ux Design
 - 📫 Contato: rafaeladiasneves95@gmail.com
 
 <div align="center">
