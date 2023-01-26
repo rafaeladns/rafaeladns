@@ -1,19 +1,12 @@
-### Olá, sou a Rafaela! Seja bem vinda(o) ao meu GitHub 💛 👋
-- ⚡ Interesse em Desenvolvimento Front-End
-- 👩‍💻 Atualmente estudando Ux Design
-- 📫 Contato: rafaeladiasneves95@gmail.com
+### Hi, I'm Rafaela. 💛 👋
+- ⚡ Front-End Development
+- 📫 Contact: rafaeladiasneves95@gmail.com
 
 <div align="center">
   <a href="https://github.com/rafaeladns">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaeladns&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaeladns&layout=compact&langs_count=7&theme=synthwave"/>
-</div>
-  
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-</div>
+    </div>
  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://c.tenor.com/TdXGUNE47FgAAAAj/mandalorian-baby-yoda.gif">
 </div>
   
